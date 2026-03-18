@@ -1,17 +1,28 @@
-# super_app
+# 🚀 Super App (Flutter)
 
-A new Flutter project.
+A multi-utility mobile application built using Flutter.
 
-## Getting Started
+## ✨ Features
 
-This project is a starting point for a Flutter application.
+* 🧮 Calculator
+* 📝 Notes App
+* 🌤 Weather UI
+* ✅ To-Do List
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠 Tech Stack
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+* Flutter
+* Dart
+* Material UI
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📦 APK
+
+Download: `app-release.apk`
+
+## 🚀 Author
+
+**Edula Sai Pranav Reddy**
+
+---
+
+💡 This project demonstrates multi-feature integration in a single app with modern UI.
